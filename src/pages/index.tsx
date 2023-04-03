@@ -28,7 +28,7 @@ export default function Home() {
               {/* <h1 className='text-4xl text-center font-bold text-gray-900 dark:text-green-500 drop-shadow-sm drop-shadow-[0_35px_35px_rgba(0,255,0,0.25)]'>Easily determine <br/> text similarity</h1> */}
               <div className='flex justify-evenly items-center w-full'>
                 <div>
-                  <LargeHeading size='lg' className='three-d'>Vietove.lt</LargeHeading>
+                  <LargeHeading className='three-d'>Vietove.lt</LargeHeading>
                   <p className='text-sm text-gray-500 dark:text-gray-400'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nisl nisl tincidunt nisl, nec aliquet nisl nisl sit amet lorem. Sed euismod, nisl nec ultricies lacinia, nisl nisl tincidunt nisl, nec aliquet nisl nisl sit amet lorem.</p>
                 </div>
                 <Image className='' src={'/images/cotton-ping-cloud.png'} alt='Pink Circus Tent' width={500} height={500} />
